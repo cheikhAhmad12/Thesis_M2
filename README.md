@@ -21,4 +21,4 @@ This repository hosts the Master’s internship thesis (Computer Science, Univer
 - Terminal text preview: `pdftotext -f 1 -l 2 thesis.pdf -`.
 
 ## Citation
-> Cheikh Ahmed Tidiane Mané, *Évaluation et adaptation de modèles de nowcasting des précipitations dans le contexte des données HDRain*, Master Informatique - IoT, Université Paris-Saclay, 2025.
+> Cheikh Ahmed Tidiane Mané, *Évaluation et adaptation de modèles de nowcasting des précipitations dans le contexte des données HDRain*, Master Informatique, Université Paris-Saclay, 2025.
