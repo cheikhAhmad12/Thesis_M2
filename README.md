@@ -1,7 +1,7 @@
 # Thesis M2 — Precipitation Nowcasting with HDRain Data
 
 ## Overview
-This repository hosts the Master’s internship thesis (Computer Science - IoT, Université Paris-Saclay, academic year 2024–2025) completed at HDRain by Cheikh Ahmed Tidiane Mané. The report covers the evaluation and adaptation of precipitation nowcasting models using HDRain’s high-resolution data.
+This repository hosts the Master’s internship thesis (Computer Science, Université Paris-Saclay, academic year 2024–2025) completed at HDRain by Cheikh Ahmed Tidiane Mané. The report covers the evaluation and adaptation of precipitation nowcasting models using HDRain’s high-resolution data.
 
 ## Repository contents
 - `thesis.pdf`: full 45-page report generated with LaTeX.
